@@ -1,3 +1,4 @@
+python==3.10
 streamlit==1.32.0
 PyMuPDF==1.21.1
 openai==1.12.0
