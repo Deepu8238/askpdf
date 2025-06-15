@@ -12,6 +12,9 @@ enableXsrfProtection = true
 [browser]
 gatherUsageStats = false
 
+[runtime]
+python_version = "3.10"
+
 [runner]
 magicEnabled = true
 fastReruns = true
@@ -30,5 +33,4 @@ primaryColor = "#FF4B4B"
 backgroundColor = "#0E1117"
 secondaryBackgroundColor = "#262730"
 textColor = "#FAFAFA"
-[runtime]
-python_version = "3.10"
+

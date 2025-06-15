@@ -51,3 +51,10 @@ concepts.pkl
 .streamlit/secrets.json
 .streamlit/secrets.yaml
 .streamlit/secrets.yml 
+
+# Environment and secrets
+myenv/
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.pkl
