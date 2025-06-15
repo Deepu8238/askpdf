@@ -1,4 +1,12 @@
-streamlit
-PyMuPDF
-openai
-python-dotenv
+streamlit==1.32.0
+PyMuPDF==1.23.8
+openai==1.12.0
+python-dotenv==1.0.1
+faiss-cpu==1.7.4
+sentence-transformers==2.5.1
+numpy==1.26.4
+torch==2.2.0
+transformers==4.37.2
+nest-asyncio==1.6.0
+pickle5==0.0.12
+pathlib==1.0.1
